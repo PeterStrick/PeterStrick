@@ -6,7 +6,7 @@
 ### Hello there, I'm Peter Strick 👋
 
 ## I'm a Student, Developer, and Hobby Programmer!
-- 🔭 I’m currently working on [Serial Keys](Serial-Keys)!
+- 🔭 I’m currently working on [Serial Keys](./Serial-Keys)!
 - 🌱 I’m currently learning Visual BAsic .Net
 - 🥅 2020 Goals: Contribute more to Open Source projects and create more projects
 - ⚡ Fun fact: I love to play [SCP: Secret Laboratory](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory) on Steam!
