@@ -7,7 +7,7 @@
 
 ## I'm a Student, Developer, and Hobby Programmer!
 - 🔭 I’m currently working on [Serial Keys](https://github.com/PeterStrick/Serial-Keys)!
-- 🌱 I’m currently learning Visual BAsic .Net
+- 🌱 I’m currently learning Visual Basic .Net
 - 🥅 2020 Goals: Contribute more to Open Source projects and create more projects
 - ⚡ Fun fact: I love to play [SCP: Secret Laboratory](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory) on Steam!
 
