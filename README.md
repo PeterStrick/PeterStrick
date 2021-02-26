@@ -7,8 +7,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="PeterStrick | Twitter" width=22 height=22 src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/PeterStrick_Acc)
-
 <br />
 
 <img align="left" alt="PeterStrick's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=PeterStrick&show_icons=true&hide_border=true" />
