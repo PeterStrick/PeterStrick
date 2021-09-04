@@ -1,7 +1,7 @@
 ### Hello there, I'm Peter Strick 👋
 
 ## I'm a Student, Developer, and Hobby Programmer!
-- 🔭 I’m currently working on [NitroSniperGUI](https://github.com/PeterStrick/NitroSniperGUI)!
+- 🔭 I’m currently working on nothing in particular.
 - ⚡ Fun fact: I love to play [SCP: Secret Laboratory](https://store.steampowered.com/app/700330/SCP_Secret_Laboratory) on Steam!
 - [💬 Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
