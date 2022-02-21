@@ -1476,7 +1476,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>ptitSeb/box64</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Box64 - Linux Userspace x86_64 Emulator with a twist, targeted at ARM64 Linux devices</div>
@@ -1641,7 +1641,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 21 Feb 2022, 16:23:08 (timezone Europe/Vienna) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 21 Feb 2022, 17:23:13 (timezone Europe/Vienna) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
