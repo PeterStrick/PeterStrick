@@ -1316,7 +1316,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>cheat-engine/cheat-engine</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Cheat Engine. A development environment focused on modding</div>
@@ -1622,7 +1622,7 @@ If you have found other Bugs or have Feature Requests, feel free to open a new I
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 Apr 2022, 14:28:31 (timezone Europe/Vienna) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 24 Apr 2022, 15:25:26 (timezone Europe/Vienna) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
