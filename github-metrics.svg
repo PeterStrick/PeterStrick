@@ -1368,7 +1368,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>replugged-org/replugged</span>
-                                        <span>starred 19 days ago</span>
+                                        <span>starred 20 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Maintained fork of @powercord-org - a lightweight @discord client mod focused on simplicity and performance.</div>
@@ -1557,14 +1557,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #E7890C">Your fortune: Good Luck</b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 19 Aug 2022, 16:17:27 (timezone Europe/Vienna) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 19 Aug 2022, 17:21:23 (timezone Europe/Vienna) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
