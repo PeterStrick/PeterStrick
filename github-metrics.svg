@@ -1494,7 +1494,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Asek3/Rubidium</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Rubidium is an Unofficial Fork of CaffeineMC's "Sodium", made to work with Forge Mod Loader.</div>
@@ -1619,14 +1619,14 @@ Maybe I'll add a Feature to ViVeTool GUI 1.7 that lists all Community/Common IDs
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 20 Sept 2022, 22:22:05 (timezone Europe/Vienna) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 20 Sept 2022, 23:17:53 (timezone Europe/Vienna) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
