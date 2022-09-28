@@ -240,9 +240,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.8231584631307" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="239.8231584631307" y="0" width="174.62423584014192" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="414.4473943032727" y="0" width="45.552605696727376" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="241.36423261915172" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="241.36423261915172" y="0" width="173.40199604875542" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="414.7662286679071" y="0" width="45.23377133209285" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1340,7 +1340,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>wei/pull</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">🤖 Keep your forks up-to-date via automated PRs</div>
@@ -1499,7 +1499,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>kimlimjustin/xplorer</span>
-                                        <span>starred 23 days ago</span>
+                                        <span>starred 24 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Xplorer, a customizable, modern file manager</div>
@@ -1645,14 +1645,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 28 Sept 2022, 09:34:49 (timezone Europe/Vienna) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 28 Sept 2022, 10:29:47 (timezone Europe/Vienna) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
