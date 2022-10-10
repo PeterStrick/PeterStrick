@@ -240,10 +240,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.57521550186576" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="234.57521550186576" y="0" width="168.52459931696998" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="403.09981481883574" y="0" width="43.9614500584701" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="447.0612648773058" y="0" width="12.938735122694153" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.5766139663574" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="234.5766139663574" y="0" width="168.5235538433383" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="403.10016780969573" y="0" width="43.961177335455" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="447.06134514515077" y="0" width="12.938654854849267" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1662,14 +1662,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Oct 2022, 19:38:31 (timezone Europe/Vienna) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 10 Oct 2022, 20:32:06 (timezone Europe/Vienna) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
