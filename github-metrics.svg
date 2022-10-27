@@ -240,10 +240,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.66607961750856" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="234.66607961750856" y="0" width="168.4566705010899" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="403.1227501185984" y="0" width="43.943730097948325" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="447.0664802165467" y="0" width="12.933519783453276" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.85665603023637" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="234.85665603023637" y="0" width="168.31419808544257" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="403.1708541156789" y="0" width="43.90656463954893" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="447.0774187552278" y="0" width="12.922581244772143" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1655,14 +1655,14 @@ Translate-URL: https://weblate.rawrr.cf/projects/vivetool-gui/vivetool-gui-testi
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 27 Oct 2022, 23:17:15 (timezone Europe/Vienna) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 28 Oct 2022, 00:19:10 (timezone Europe/Vienna) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
