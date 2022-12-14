@@ -1622,14 +1622,14 @@ This is planned, along with more in the 1.7 Release</div>
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #6023F8">Your fortune: Outlook good</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Dec 2022, 22:14:29 (timezone Europe/Vienna) with lowlighter/metrics@3.30.0</span>
+                <span>Last updated 14 Dec 2022, 23:15:06 (timezone Europe/Vienna) with lowlighter/metrics@3.30.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
