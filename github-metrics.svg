@@ -1315,7 +1315,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Icepenguins101/charms-bar-port</span>
-                                        <span>starred 4 days ago</span>
+                                        <span>starred 5 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">The solution for restoring the Windows 8.x Charms Bar to Windows 10 and Windows 11</div>
@@ -1545,14 +1545,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 12 May 2023, 09:12:43 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 12 May 2023, 10:17:06 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
