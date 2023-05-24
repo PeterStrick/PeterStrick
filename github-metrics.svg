@@ -240,10 +240,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.60405527941458" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="239.60405527941458" y="0" width="164.76510494536655" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="404.3691602247811" y="0" width="42.980745610975816" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="447.34990583575694" y="0" width="12.650094164243061" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.6060604222644" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="239.6060604222644" y="0" width="164.76360592698623" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="404.3696663492506" y="0" width="42.980354575946336" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="447.35002092519693" y="0" width="12.64997907480303" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1368,7 +1368,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        60
+                                        61
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1667,14 +1667,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #7FEC11">Your fortune: Bad Luck</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 24 May 2023, 22:14:19 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 24 May 2023, 23:13:42 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
