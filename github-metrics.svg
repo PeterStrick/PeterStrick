@@ -240,10 +240,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.64214675560945" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="239.64214675560945" y="0" width="164.73662825955125" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="404.37877501516067" y="0" width="42.97331716191631" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="447.352092177077" y="0" width="12.647907822922983" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="239.88375403589754" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="239.88375403589754" y="0" width="164.55600583955757" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="404.4397598754551" y="0" width="42.92619986552056" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="447.3659597409756" y="0" width="12.634040259024358" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1666,14 +1666,14 @@ Automatically Converts %3E into &gt; within a Comment due to weird Discord Limit
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #00CBB0">Your fortune: ｷﾀ━━━━━━(ﾟ∀ﾟ)━━━━━━ !!!!</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 May 2023, 21:10:58 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 31 May 2023, 22:14:21 (timezone Europe/Vienna) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
