@@ -240,14 +240,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.64131385985033" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="171.64131385985033" y="0" width="114.67992278846123" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="286.3212366483116" y="0" width="110.48585771467745" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="396.807094362989" y="0" width="44.774478490394365" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="441.58157285338336" y="0" width="13.178025671888872" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="454.7595985252722" y="0" width="4.228942953815242" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="458.9885414790874" y="0" width="0.948968985856135" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="459.93751046494356" y="0" width="0.06248953505637643" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="171.7938226477619" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="171.7938226477619" y="0" width="114.37309487370831" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="286.1669175214702" y="0" width="110.58402792709612" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="396.7509454485663" y="0" width="44.81426204419261" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="441.565207492759" y="0" width="13.189734768475772" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="454.75494226123476" y="0" width="4.23270050466084" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="458.9876427658956" y="0" width="0.9498121751008689" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="459.9374549409965" y="0" width="0.06254505900357941" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1604,6 +1604,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#883cb90</div>
+                                        <div class="message">More SonarQube Linting</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">PeterStrick/Boydancer</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#cd7857f</div>
                                         <div class="message">Resolving SonarQube Issues</div>
                                     </div>
@@ -1670,26 +1690,6 @@
                                 </div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">PeterStrick/Boydancer</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#f79537b</div>
-                                        <div class="message">Better ESLint and SonarQube</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -1703,14 +1703,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
+                            <b style="color: #6023F8">Your fortune: Outlook good</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 9 Nov 2023, 13:26:42 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 Nov 2023, 14:17:02 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
