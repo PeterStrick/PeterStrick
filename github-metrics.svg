@@ -240,14 +240,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="167.86959134615384" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="167.86959134615384" y="0" width="143.20317771592443" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="311.07276906207824" y="0" width="92.18017248650473" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="403.25294154858295" y="0" width="37.356085526315795" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="440.60902707489873" y="0" width="13.328641616059379" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="453.93766869095816" y="0" width="3.5282768218623484" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="457.46594551282044" y="0" width="1.7423140182186234" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.20825953103906" y="0" width="0.7917404689608637" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="167.82800563086218" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="167.82800563086218" y="0" width="143.22356315475906" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="311.0515687856212" y="0" width="92.19329463433665" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="403.2448634199579" y="0" width="37.36140328677854" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="440.60626670673645" y="0" width="13.330538991611702" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="453.9368056983481" y="0" width="3.528779083561362" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="457.4655847819095" y="0" width="1.7425620422947343" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.2081468242043" y="0" width="0.7918531757957283" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1726,14 +1726,14 @@ Translation: ViVeTool GUI/ViVeTool GUI Feature Scanner - v1.7 Testing Branch - M
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
+                            <b style="color: #9D05DA">Your fortune: Very Bad Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 25 May 2024, 20:18:28 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 25 May 2024, 21:12:21 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
