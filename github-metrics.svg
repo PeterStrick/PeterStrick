@@ -240,14 +240,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="402.2781698482698" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="402.2781698482698" y="0" width="21.283863624672982" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="423.56203347294274" y="0" width="18.360565750354336" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="441.9225992232971" y="0" width="6.560284792663898" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="448.48288401596096" y="0" width="4.680609258466344" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.1634932744273" y="0" width="4.222868468379702" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="457.386361742807" y="0" width="1.794637171180609" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="459.18099891398765" y="0" width="0.8190010860123207" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="402.249124394852" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="402.249124394852" y="0" width="21.282326878421767" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="423.5314512732738" y="0" width="18.392953044768394" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="441.9244043180422" y="0" width="6.559811124290532" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="448.4842154423327" y="0" width="4.6802713071968665" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.16448674952954" y="0" width="4.222563567098496" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="457.387050316628" y="0" width="1.7940077312119187" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="459.18105804784" y="0" width="0.818941952159987" height="8" fill="#3572A5"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1375,7 +1375,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>NumixAvali/PeterAlert</span>
-                                        <span>starred 4 hours ago</span>
+                                        <span>starred 5 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Yes</div>
@@ -1598,14 +1598,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #FD4D32">Your fortune: Excellent Luck</b>
+                            <b style="color: #43FD3B">Your fortune: Good news will come to you by mail</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 10 Apr 2025, 11:20:42 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Apr 2025, 12:21:10 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
