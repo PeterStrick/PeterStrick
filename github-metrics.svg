@@ -166,7 +166,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
                                     </svg>
-                                    Prefers MIT license
+                                    Prefers GPL-3.0 license
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -240,14 +240,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.25165404774526" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="373.25165404774526" y="0" width="72.11850267660283" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="445.3701567243481" y="0" width="4.779417114433974" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="450.14957383878203" y="0" width="3.812452740062731" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="453.96202657884476" y="0" width="2.7415895089438838" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="456.70361608778865" y="0" width="1.281170290205428" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="457.98478637799406" y="0" width="1.176096422426943" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="459.160882800421" y="0" width="0.8391171995789789" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.25184934478887" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="373.25184934478887" y="0" width="72.1183403158084" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="445.3701896605973" y="0" width="4.779406354505095" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="450.14959601510236" y="0" width="3.812444157066237" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="453.96204017216866" y="0" width="2.741583336787861" height="8" fill="#178600"/>
+                    <rect mask="url(#languages-bar)" x="456.7036235089565" y="0" width="1.2811674058994817" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="457.984790914856" y="0" width="1.1760937746743914" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="459.1608846895304" y="0" width="0.8391153104696646" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1365,7 +1365,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>TFAGaming/DiscordJS-V14-Bot-Template</span>
-                                        <span>starred 8 hours ago</span>
+                                        <span>starred 9 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Discord bot with commands, components and events handler based on the latest discord.js v14 and fully written in JavaScript.</div>
@@ -1595,14 +1595,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #2A56FB">Your fortune: Better not tell you now</b>
+                            <b style="color: #BAC200">Your fortune: Average Luck</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Dec 2025, 09:27:23 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Dec 2025, 10:21:18 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
