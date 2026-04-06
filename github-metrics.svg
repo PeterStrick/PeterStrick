@@ -240,14 +240,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="387.14852526813775" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="387.14852526813775" y="0" width="62.7484567358621" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="449.8969820039998" y="0" width="3.18310433923544" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="453.0800863432353" y="0" width="2.4955508494198897" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="455.57563719265517" y="0" width="1.7826806181158585" height="8" fill="#178600"/>
-                    <rect mask="url(#languages-bar)" x="457.358317810771" y="0" width="1.3313174341869587" height="8" fill="#5686a5"/>
-                    <rect mask="url(#languages-bar)" x="458.68963524495797" y="0" width="0.7647404144406603" height="8" fill="#945db7"/>
-                    <rect mask="url(#languages-bar)" x="459.45437565939864" y="0" width="0.545624340601356" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="390.7638051963632" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="390.7638051963632" y="0" width="63.334415925574035" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="454.09822112193723" y="0" width="2.518854864047157" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="456.6170759859844" y="0" width="1.3437495755584883" height="8" fill="#5686a5"/>
+                    <rect mask="url(#languages-bar)" x="457.9608255615429" y="0" width="0.7718817322817015" height="8" fill="#945db7"/>
+                    <rect mask="url(#languages-bar)" x="458.7327072938246" y="0" width="0.5507195033055434" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="459.2834267971302" y="0" width="0.4968618179832267" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="459.78028861511336" y="0" width="0.21971138488665998" height="8" fill="#178600"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -264,21 +264,9 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        PowerShell
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        C#
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -297,6 +285,18 @@
                             <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         HTML
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#f34b7d" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C++
+                    </div>
+                    <div class="field center no-wrap language">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                            <path fill="#178600" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                        </svg>
+                        C#
                     </div>
                 </div>
             </section>
@@ -1393,7 +1393,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                         </svg>
-                                        437
+                                        436
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1596,14 +1596,14 @@
                 <div class="row">
                     <section class="largeable-column-fields">
                         <div class="field" style="padding-left: 31px">
-                            <b style="color: #BAC200">Your fortune: Average Luck</b>
+                            <b style="color: #0893E1">Your fortune: You will meet a dark handsome stranger</b>
                         </div>
                     </section>
                 </div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 6 Apr 2026, 21:02:36 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Apr 2026, 22:38:26 (timezone Europe/Vienna) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
